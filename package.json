@@ -1,5 +1,5 @@
 {
-  "name": "blogger_frontend",
+  "name": "blogger_mobile_app",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
